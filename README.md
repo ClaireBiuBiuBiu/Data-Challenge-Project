@@ -1,6 +1,10 @@
 # Data-Challenge-Project
 This is the data science solution for the University of Maryland Data Challenge Competition
 
+Generalized Linear Models applied (Logistic regression, linear regression, Poisson regression)
+
+-----------------------------------------------------------------------------------------------------
+
 Maryland Small Business Development Center (SBDC) provides free individual business consulting and group training to small businesses, both existing and pre-venture ones. The dataset lists businesses who received individual consulting services during the last 10 years (2009-2018) and includes: (1) economic impact outcomes achieved by the clients as a result of consulting; (2) consulting and training activity; (3) characteristics of the businesses, and (4) socio-demographics of the owners. 
 The analysis could help uncover factors that determine positive economic impact of business consulting and may include, for example, the following areas:
 
