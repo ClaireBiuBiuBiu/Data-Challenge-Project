@@ -1,4 +1,4 @@
-setwd("D://UMD life//Spring Study//Data challenge//Maryland Small Business Development Center")
+
 mydata=read.csv("3.1_Q1.csv")
 library(ggplot2)
 library(tidyverse)
